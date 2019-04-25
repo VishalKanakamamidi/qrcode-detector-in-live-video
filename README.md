@@ -4,5 +4,6 @@ Dependencies:<br/>
 Python3.6<br/>
 Imutils<br/>
 OpenCv<br/>
+Pyzbar<br/>
 
 ![alt text](Show3.png)
